@@ -1,1 +1,1 @@
-MySQL Exercise
+SoftUni MySQL Exercise
